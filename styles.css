@@ -1,0 +1,17 @@
+@media only screen and (max-width:600px){
+    body{
+      background-color: red;
+      }
+  }
+  .nav-bar{
+    position: top;
+  }
+  body{
+    color: black;
+    background-color: yellow;
+  }
+  .nav-bar{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue;
+  }
